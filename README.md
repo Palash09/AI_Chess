@@ -13,10 +13,12 @@ At the start of the game chessboard looks as shown below.
 
 ![Chess_Game](https://github.com/Palash09/AI_Chess/blob/master/Initial_ChessBoard.png)
 
-Below the chessboard, we can select the maximum depth to which the minimax algorithm will search for the best possible move. 
-Here, as the search depth increases the toughness level of the game will increase.
+Below the chessboard, we can select the maximum depth to which the AI will search for the best possible move. 
+Here, as the search depth increases the toughness level of the game will increase and our AI will perform better.
 
-Along with this various chess locations are printed where the pieces are moved by the computer and the player.
+The time is also displayed which is taken to complete the move by the players.
+
+Along with this various chess locations are printed where the pieces are moved by the AI and the player.
 
 ![Chess_Game](https://github.com/Palash09/AI_Chess/blob/master/ChessBoard.png)
 
